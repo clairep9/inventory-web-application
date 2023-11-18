@@ -1,1 +1,4 @@
 # inventory-web-application
+This is a copy of the bookstore inventory example in the project's instructions. 5 books are pre-displayed and each book has a title, author, price and genre. Each book also have a in-stock button and a remove button.  When "Remove" button is clicked, book is removed from inventory. When "In-Stock" button is clicked, it switches to "Out of Stock" and vice versa. 
+On the left, user can add a book by filling out the form. Title, Author, Price and Genre are required fields. If left empty, error messages will be displayed. The "In-Stock" field is set to default "In Stock". User can change it to "Out of Stock" if needed.
+Certain fields have placeholders to suggest the format to use. 
